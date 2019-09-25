@@ -1,4 +1,4 @@
-package rohman.BasicSyntax
+package Rohman.BasicSyntax
 
 fun main() {
     fun describe(obj: Any): String =

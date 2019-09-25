@@ -1,4 +1,4 @@
-package rohman.Idioms
+package Rohman.Idioms
 
 /* Provied a class with following functionallity :
     -Getter and Setter

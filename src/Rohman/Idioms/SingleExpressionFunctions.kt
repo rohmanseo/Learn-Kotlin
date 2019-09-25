@@ -1,4 +1,4 @@
-package rohman.Idioms
+package Rohman.Idioms
 
 fun main(){
 

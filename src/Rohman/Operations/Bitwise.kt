@@ -1,4 +1,4 @@
-package rohman.Operations
+package Rohman.Operations
 
 fun main(){
     //Signed shift left 2 times

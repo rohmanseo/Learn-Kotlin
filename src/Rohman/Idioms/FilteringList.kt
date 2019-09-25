@@ -1,4 +1,4 @@
-package rohman.Idioms
+package Rohman.Idioms
 
 fun main(){
     var list = arrayOf(1,2,-3,4,5)

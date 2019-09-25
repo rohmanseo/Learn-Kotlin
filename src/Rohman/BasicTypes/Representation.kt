@@ -1,4 +1,4 @@
-package rohman.BasicTypes
+package Rohman.BasicTypes
 
 fun main(){
     val a: Int  = 1_000

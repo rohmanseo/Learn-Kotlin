@@ -1,4 +1,4 @@
-package rohman.BasicSyntax
+package Rohman.BasicSyntax
 
 import java.lang.Integer.parseInt
 

@@ -1,4 +1,4 @@
-package rohman.ClassesAndObjects
+package Rohman.ClassesAndObjects
 
 //The primary constructor cant contain any code, so you can use init keyword to add more code in classes
 
